@@ -19,15 +19,14 @@ php -S localhost:8000 -t public
 
 4. Head to[localhost:8000](localhost:8000) and Review the scenarios.
 
-   Manager Acoount credentials:
+Manager Acoount credentials:
 
 ```
 Username - Password 
 manager manager
 ```
 
-
-   Employee Accounts credentials:
+Employee Accounts credentials:
 
 ```
 Username - Password
